@@ -1,2 +1,5 @@
 # Auto_Clock_In
-automatically clock in/out
+
+A python code to automatically clock in/out.
+
+`python card.py`
